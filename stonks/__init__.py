@@ -1,5 +1,5 @@
   
-from .mycog import Stonks
+from .stonks import Stonks
 
 
 def setup(bot):
