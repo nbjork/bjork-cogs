@@ -1,5 +1,6 @@
 
 from redbot.core import commands
+from discord.ext import commands
 
 class Stonks(commands.Cog):
     """My custom cog"""
