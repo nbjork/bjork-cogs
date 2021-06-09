@@ -1,4 +1,3 @@
-  
 from .stonks import Stonks
 
 
