@@ -1,0 +1,10 @@
+{
+    "AUTHOR" : "Nathan",
+    "INSTALL_MSG" : "Stonks Cog",
+    "NAME" : "Stonks",
+    "SHORT" : "Get Da Stonks",
+    "DESCRIPTION" : "Read the short desciption, fool",
+    "TAGS" : ["Stonks", "Stock"],
+    "REQUIREMENTS" : ["discord", "bs4", "requests", "random"],
+    "HIDDEN" : false
+}
